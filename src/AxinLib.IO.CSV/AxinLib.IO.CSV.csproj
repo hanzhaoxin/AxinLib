@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors />
+    <PackageProjectUrl>https://github.com/hanzhaoxin/AxinLib</PackageProjectUrl>
+    <PackageIconUrl>http://images.cnblogs.com/cnblogs_com/hanzhaoxin/638238/o_csv.png</PackageIconUrl>
+    <Description>csv/tsv parser</Description>
+  </PropertyGroup>
+
+</Project>
