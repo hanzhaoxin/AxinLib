@@ -6,6 +6,7 @@
     <PackageProjectUrl>https://github.com/hanzhaoxin/AxinLib</PackageProjectUrl>
     <PackageIconUrl>http://images.cnblogs.com/cnblogs_com/hanzhaoxin/638238/o_csv.png</PackageIconUrl>
     <Description>csv/tsv parser</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
